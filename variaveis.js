@@ -1,4 +1,7 @@
-let estudante = "Ana"
-let professora = "Caroline"
+const estudante = "Ana"
+const professora = "Caroline"
 
-console.log(estudante, professora)
+estudante = "Mariana"
+
+console.log("estudante", estudante)
+console.log("professora", professora)
