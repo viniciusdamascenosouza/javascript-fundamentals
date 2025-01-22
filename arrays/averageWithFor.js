@@ -6,6 +6,6 @@ for (let i = 0; i < grades.length; i++) {
   gradesSum += grades[i];
 }
 
-const averages = gradesSum / grades.length;
+const average = gradesSum / grades.length;
 
-console.log(`The average is ${averages}`); // The average is 8
+console.log(`The average is ${average}`); // The average is 8
