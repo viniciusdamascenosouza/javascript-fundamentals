@@ -1,4 +1,4 @@
-const grades = [10, 6.5, 8, 7.5];
+const grades = [10, 6.5, 8, 7, 6];
 
 let gradesSum = 0;
 
