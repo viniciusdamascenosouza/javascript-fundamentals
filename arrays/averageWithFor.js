@@ -8,4 +8,4 @@ for (let i = 0; i < grades.length; i++) {
 
 const averages = gradesSum / grades.length;
 
-console.log(`The average is ${averages}`);
+console.log(`The average is ${averages}`); // The average is 8
