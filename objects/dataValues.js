@@ -4,7 +4,7 @@ const student = {
     cpf: "12312312312",
     class: "Javascript",
     telephones: [919999999, 929999999],
-    adrress: {
+    address: {
       street: "Rua 1",
       number: 123,
       city: "Vinilandia",

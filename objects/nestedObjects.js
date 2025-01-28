@@ -4,12 +4,12 @@ const student = {
     cpf: "12312312312",
     class: "Javascript",
     telephones: [919999999, 929999999],
-    adrress: {
+    address: {
       street: "Rua 1",
       number: 123,
       city: "Vinilandia",
     }
   };
 
-  console.log(student.adrress); // { street: 'Rua 1', number: 123, city: 'Vinilandia' }
-  console.log(student.adrress.city); // Vinilandia
+  console.log(student.address); // { street: 'Rua 1', number: 123, city: 'Vinilandia' }
+  console.log(student.address.city); // Vinilandia
