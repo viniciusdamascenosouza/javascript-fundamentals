@@ -11,7 +11,5 @@ const student = {
     }
   };
 
-  console.log(student.telephones) // [919999999, 929999999]
-  console.log(student.telephones[0]); // 919999999
-  console.log(student.telephones[1]); // 929999999
-
+  console.log(student.adrress); // { street: 'Rua 1', number: 123, city: 'Vinilandia' }
+  console.log(student.adrress.city); // Vinilandia
